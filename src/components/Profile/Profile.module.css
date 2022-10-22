@@ -1,0 +1,8 @@
+.profile {
+    margin: 30px auto;
+    height: 600px;
+    width: 500px;  
+    background-color: rgb(240, 239, 238);
+    outline: solid 1px rgb(184, 180, 180);
+    border-radius: 5px;
+}
