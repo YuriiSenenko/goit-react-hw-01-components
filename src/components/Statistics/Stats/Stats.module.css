@@ -1,0 +1,10 @@
+.statList {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0;
+  outline: solid 1px rgb(224, 221, 221);
+  background-color: rgb(223, 222, 222);
+  border-top: 1px solid rgb(184, 180, 180);
+  border-radius: 0px 0px 5px 5px;
+}

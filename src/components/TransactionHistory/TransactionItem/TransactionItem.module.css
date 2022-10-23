@@ -1,0 +1,7 @@
+.tableRow:nth-child(2n-1) {
+  background-color: rgb(209, 208, 239);
+}
+
+.tableData {
+  outline: solid 1px rgb(196, 195, 245);
+}

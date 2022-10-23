@@ -1,9 +1,8 @@
 import css from './Profile.module.css';
 import { Descriptions } from './Descriptoins/Descriptions';
 import { Stats } from './Stats/Stats';
-import user from 'components/user.json';
 
-export const Profile = () => {
+export const Profile = ({ user }) => {
   const { avatar, username, tag, location, stats } = user;
   return (
     <div className={css.profile}>
